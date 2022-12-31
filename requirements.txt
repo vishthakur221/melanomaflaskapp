@@ -70,5 +70,4 @@ opt-einsum==3.3.0
 packaging==21.3
 tensorflow==2.11.0
 tensorflow-estimator==2.11.0
-tensorflow-intel==2.11.0
 tensorflow-io-gcs-filesystem==0.28.0
